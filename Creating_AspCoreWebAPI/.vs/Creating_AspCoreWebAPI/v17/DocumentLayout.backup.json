@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.Net Core Web API\\Creating_AspCoreWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3743A7-D644-4232-A43F-6E14A4B40E4A}|Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI.csproj|d:\\asp.net core web api\\creating_aspcorewebapi\\creating_aspcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE3743A7-D644-4232-A43F-6E14A4B40E4A}|Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI.csproj|solutionrelative:creating_aspcorewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3743A7-D644-4232-A43F-6E14A4B40E4A}|Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI.csproj|d:\\asp.net core web api\\creating_aspcorewebapi\\creating_aspcorewebapi\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3743A7-D644-4232-A43F-6E14A4B40E4A}|Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI.csproj|solutionrelative:creating_aspcorewebapi\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3743A7-D644-4232-A43F-6E14A4B40E4A}|Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI.csproj|d:\\asp.net core web api\\creating_aspcorewebapi\\creating_aspcorewebapi\\models\\aspcorewebapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3743A7-D644-4232-A43F-6E14A4B40E4A}|Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI.csproj|solutionrelative:creating_aspcorewebapi\\models\\aspcorewebapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3743A7-D644-4232-A43F-6E14A4B40E4A}|Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI.csproj|d:\\asp.net core web api\\creating_aspcorewebapi\\creating_aspcorewebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3743A7-D644-4232-A43F-6E14A4B40E4A}|Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI.csproj|solutionrelative:creating_aspcorewebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3743A7-D644-4232-A43F-6E14A4B40E4A}|Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI.csproj|d:\\asp.net core web api\\creating_aspcorewebapi\\creating_aspcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3743A7-D644-4232-A43F-6E14A4B40E4A}|Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI.csproj|solutionrelative:creating_aspcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Asp.Net Core Web API\\Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Creating_AspCoreWebAPI\\appsettings.json",
+              "ToolTip": "D:\\Asp.Net Core Web API\\Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI\\appsettings.json",
+              "RelativeToolTip": "Creating_AspCoreWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T09:46:22.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AspCoreWebApidbContext.cs",
+              "DocumentMoniker": "D:\\Asp.Net Core Web API\\Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI\\Models\\AspCoreWebApidbContext.cs",
+              "RelativeDocumentMoniker": "Creating_AspCoreWebAPI\\Models\\AspCoreWebApidbContext.cs",
+              "ToolTip": "D:\\Asp.Net Core Web API\\Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI\\Models\\AspCoreWebApidbContext.cs",
+              "RelativeToolTip": "Creating_AspCoreWebAPI\\Models\\AspCoreWebApidbContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwCgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:53:01.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Asp.Net Core Web API\\Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Creating_AspCoreWebAPI\\Models\\Student.cs",
+              "ToolTip": "D:\\Asp.Net Core Web API\\Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI\\Models\\Student.cs",
+              "RelativeToolTip": "Creating_AspCoreWebAPI\\Models\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvwkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:52:27.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.Net Core Web API\\Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Creating_AspCoreWebAPI\\Program.cs",
+              "ToolTip": "D:\\Asp.Net Core Web API\\Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI\\Program.cs",
+              "RelativeToolTip": "Creating_AspCoreWebAPI\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:19:23.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "D:\\Asp.Net Core Web API\\Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "Creating_AspCoreWebAPI\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "D:\\Asp.Net Core Web API\\Creating_AspCoreWebAPI\\Creating_AspCoreWebAPI\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "Creating_AspCoreWebAPI\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:58:13.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
